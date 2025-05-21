@@ -87,7 +87,7 @@ This project is licensed under the MIT License.
 ---------🙋‍♀️ Author---------
 Marpally Latha Devi,
 Prompt Engineer | Generative AI Developer
-GitHub: yourusername
+GitHub: lathadevi158
 
 
 
