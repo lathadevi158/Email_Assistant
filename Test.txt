@@ -1,0 +1,7 @@
+Can you create a draft email with the subject 'Test Draft'?
+Can you send that draft email with the subject 'Test Draft' in drafts folder to abc@gmail.com?
+What is the latest email in my inbox?
+Can you send reply back email for the latest email in my inbox?
+Create a draft email about leave request approval to manager and save it in my drafts folder?
+Summarize the content of the latest email in my inbox.
+Summarize the content of the email with subject 'Live Event' in my inbox today.
