@@ -85,7 +85,7 @@ Then, open your browser at http://localhost:8501 (or Streamlit will auto-launch 
 This project is licensed under the MIT License.
 
 ---------🙋‍♀️ Author---------
-Marpally Latha Devi
+Marpally Latha Devi,
 Prompt Engineer | Generative AI Developer
 GitHub: yourusername
 
