@@ -24,22 +24,10 @@ This project is an intelligent Gmail assistant built with **Streamlit**, powered
 
 ---
 
-## 📁 Project Structure
+## 🔑 Gmail API Setup
 
-.
-├── app.py # Main application code
-├── .env # Environment variables 
-├── token.json # Gmail OAuth token (auto-generated after first auth)
-├── credentials.json # Gmail OAuth 2.0 credentials
-├── requirements.txt # Project dependencies
-└── README.md # Project documentation
+Get credentials.json and token.json
 
-
-
-
---------🔑 Gmail API Setup--------
-
-Step-by-step: Get credentials.json and token.json
 ✅ 1. Enable Gmail API
 Go to Google Cloud Console
 
@@ -66,12 +54,18 @@ Download the credentials.json file and place it in your project directory
 ✅ 4. Generate token.json
 On first run, the app will open a browser asking for Gmail access. After logging in and granting permissions, a token.json will be automatically created.
 
----------▶️ Run the App-----------
+---
+
+## ▶️ Run the App
 
 streamlit run app.py
+
 Then, open your browser at http://localhost:8501 (or Streamlit will auto-launch it).
 
---------📝 Example Commands You Can Try---------
+---
+
+## 📝 Example Commands You Can Try
+
 "Search for emails from Google"
 
 "Create a draft email to Alice about the meeting tomorrow"
@@ -80,19 +74,14 @@ Then, open your browser at http://localhost:8501 (or Streamlit will auto-launch 
 
 "Show the latest email thread with Bob"
 
+---
 
------📄 License---------
+📄 **License**  
 This project is licensed under the MIT License.
 
----------🙋‍♀️ Author---------
-Marpally Latha Devi,
-Prompt Engineer | Generative AI Developer
-GitHub: lathadevi158
+---
 
-
-
-
-
-
-
-
+🙋‍♀️ **Author**  
+**Marpally Latha Devi**  
+Prompt Engineer | Generative AI Developer  
+GitHub: [lathadevi158](https://github.com/lathadevi158)
