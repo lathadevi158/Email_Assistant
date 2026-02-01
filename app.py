@@ -6,7 +6,7 @@ from langchain_community.tools.gmail.utils import (
 )
 from langchain import hub
 from langchain.agents import AgentExecutor, create_structured_chat_agent
-from langchain_openai import AzureChatOpenAI
+from langchain_openai import ChatOpenAI
 from dotenv import load_dotenv
 import os
 
@@ -77,3 +77,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+
